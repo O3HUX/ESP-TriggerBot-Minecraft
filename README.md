@@ -21,7 +21,7 @@
 ⏲️ Установка
 
 1. Установи [Fabric Loader](https://fabricmc.net/use/)
-2. Скачай последнюю версию мода из [Releases](https://github.com/O3HUX/ESP-TriggerBot-Minecraft/release)
+2. Скачай последнюю версию мода из [Releases](https://github.com/O3HUX/ESP-TriggerBot-Minecraft/releases)
 3. Перемести скачанный `.jar` в папку `.minecraft/mods`
 4. Запускай игру
 
