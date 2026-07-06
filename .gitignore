@@ -5,4 +5,3 @@ run/
 *.iml
 out/
 classes/
-gradle/
