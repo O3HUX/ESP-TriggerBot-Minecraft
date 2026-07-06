@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"sodlum","version":"1.2","name":"SodiumE`xtra","environment":"client","entrypoints":{"client":["com.example.mod.TriggerEspMod"]},"mixins":["tb-esp.mixins.json"],"depends":{"fabricloader":">=0.16.0","minecraft":"~1.21.4"}}
